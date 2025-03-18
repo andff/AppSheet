@@ -1,14 +1,15 @@
 ### AppSheet
 
-Disponibilizo para vocês um script em python que faz a tradução automática do *AppSheet*
+Disponibilizo para vocês um script em python que faz a tradução automática do *AppSheet* utilizando a biblioteca PyAutoGUI (Que faz automação no computador)
 
 ### Última atualização
 18/03/2025
 
 
 ### Como utilizar?
-
-Baixe o arquivo "traduzir.py"
+- Primeiramente você precisa ter instalado em seu computador o Python (https://www.python.org/)
+- Depois precisa instalar uma biblioteca PyAutoGUI (https://pypi.org/project/PyAutoGUI/), para instalar basta abrir o Prompt de Comando no Windows (CMD) e digitar "pip install pyautogui"
+- Baixe o arquivo "Traduzir_PT-BR.py"
 
 
 ## Referência
