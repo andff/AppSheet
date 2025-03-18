@@ -1,4 +1,4 @@
-## Traduzir AppSheet / Traducir Appsheet / Tradurre Appsheet / Traduire AppSheet
+## AppShhet Traduzir / Traducir / Tradurre / Traduire
 
 Disponibilizo para vocês um script em python que faz a tradução automática do *AppSheet* utilizando a biblioteca PyAutoGUI.
 
