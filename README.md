@@ -4,7 +4,7 @@ Disponibilizo para vocês um script em python que faz a tradução automática d
 
 ## O que é PyAutoGUI
 
-PyAutoGUI permite que Python controle o mouse e o teclado, e outras tarefas de automação de GUI. Para Windows, macOS e Linux, em Python 3 e 2.
+PyAutoGUI permite que `Python` controle o mouse e o teclado, e outras tarefas de automação de GUI. Para Windows, macOS e Linux, em Python 3 e 2.
 Observação: Não funciona no celular e tablet.
 
 ## Última atualização
