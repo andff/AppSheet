@@ -1,3 +1,5 @@
+# ÚLTIMA ATUALIZAÇÃO 18/03/2025
+
 # IMPORTANDO BIBLIOTECAS
 import pyautogui as pg
 import time as t
