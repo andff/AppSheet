@@ -19,7 +19,8 @@ Observação: Não funciona no celular e tablet.
 ```
 
 - Baixe o arquivo referênte a sua lingua:
-![Texto alternativo](img/br.svg) [Português BR](Traduzir_PT-BR.py)
+<img src="img/br.svg" alt="Logo do meu projeto" width="200" />
+ [Português BR](Traduzir_PT-BR.py)
 [Espanhol](Traducir_ES.py)
 [Italiano](Tradurre_IT.py)
 [Francês](Traduire_FR.py)
