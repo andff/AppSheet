@@ -32,4 +32,4 @@ Caso você queira contribuir ou dá uma sugestão na nossa comunidade entre em c
 
 ### Screenshots / Capturas de tela / Capturas de pantalla / Schermati / Captures d'écran
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](img/screenshots.png)
