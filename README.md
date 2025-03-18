@@ -8,7 +8,12 @@ Disponibilizo para vocês um script em python que faz a tradução automática d
 
 ### Como utilizar?
 - Primeiramente você precisa ter instalado em seu computador o Python (https://www.python.org/)
-- Depois precisa instalar uma biblioteca PyAutoGUI (https://pypi.org/project/PyAutoGUI/), para instalar basta abrir o Prompt de Comando no Windows (CMD) e digitar "pip install pyautogui"
+
+- Depois precisa instalar uma biblioteca PyAutoGUI (https://pypi.org/project/PyAutoGUI/), para instalar basta abrir o Prompt de Comando no Windows (CMD) e comando abaixo:
+```bash
+  pip install pyautogui
+```
+
 - Baixe o arquivo "Traduzir_PT-BR.py"
 
 
