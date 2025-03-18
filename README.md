@@ -21,9 +21,9 @@ Observação: Não funciona no celular e tablet.
 - Baixe o arquivo referênte a sua lingua:
 
 [Português BR <img src="img/br.svg" width="50" />](Traduzir_PT-BR.py)
-[Espanhol](Traducir_ES.py)
-[Italiano](Tradurre_IT.py)
-[Francês](Traduire_FR.py)
+[Espanhol <img src="img/es.svg" width="50" />](Traducir_ES.py)
+[Italiano <img src="img/it.svg" width="50" />](Tradurre_IT.py)
+[Francês <img src="img/fr.svg" width="50" />](Traduire_FR.py)
 
 
 
