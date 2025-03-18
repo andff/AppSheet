@@ -1,3 +1,7 @@
+## Autores
+
+- [@andff](https://www.github.com/andff)
+
 ### AppSheet
 
 Disponibilizo para vocês um script em python que faz a tradução automática do *AppSheet* utilizando a biblioteca PyAutoGUI.
@@ -65,9 +69,7 @@ Recebe dois números e retorna a sua soma.
 Coloque qualquer informação adicional aqui
 
 
-## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
 
 
 ## Etiquetas
