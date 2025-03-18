@@ -1,6 +1,10 @@
 ### AppSheet
 
-Disponibilizo para vocês um script em python que faz a tradução automática do *AppSheet* utilizando a biblioteca PyAutoGUI (Que faz automação no computador)
+Disponibilizo para vocês um script em python que faz a tradução automática do *AppSheet* utilizando a biblioteca PyAutoGUI.
+
+### O que é PyAutoGUI
+
+PyAutoGUI permite que Python controle o mouse e o teclado, e outras tarefas de automação de GUI. Para Windows, macOS e Linux, em Python 3 e 2.
 
 ### Última atualização
 18/03/2025
