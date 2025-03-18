@@ -16,6 +16,9 @@ Disponibilizo para vocês um script em python que faz a tradução automática d
 
 - Baixe o arquivo referênte a sua lingua:
 [Português BR](Traduzir_PT-BR.py)
+[Espanhol](Traducir_ES.py)
+[Italiano](Tradurre_IT.py)
+[Francês](Traduire_FR.py)
 
 
 
