@@ -14,7 +14,9 @@ Disponibilizo para vocês um script em python que faz a tradução automática d
   pip install pyautogui
 ```
 
-- Baixe o arquivo "Traduzir_PT-BR.py"
+- Baixe o arquivo referênte a sua lingua:
+[Português BR](Traduzir_PT-BR.py)
+
 
 
 ## Referência
