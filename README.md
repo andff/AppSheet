@@ -30,6 +30,6 @@ Observação: Não funciona no celular e tablet.
 
 Caso você queira contribuir ou dá uma sugestão na nossa comunidade entre em contato pelo e-mail (andffbr@ gmail.com)
 
-## Screenshots / Capturas de tela / Capturas de pantalla / Schermati / Captures d'écran
+### Screenshots / Capturas de tela / Capturas de pantalla / Schermati / Captures d'écran
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
